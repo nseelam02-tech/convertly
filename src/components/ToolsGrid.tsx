@@ -16,72 +16,72 @@ const tools = [
     title: "PDF to Word",
     description: "Convert PDF documents to editable Word files",
     icon: FileText,
-    color: "text-blue-600",
-    bgColor: "bg-blue-50"
+    color: "text-primary",
+    bgColor: "bg-primary-light"
   },
   {
     id: "pdf-to-excel",
     title: "PDF to Excel",
     description: "Extract tables and data from PDF to Excel",
     icon: FileSpreadsheet,
-    color: "text-green-600",
-    bgColor: "bg-green-50"
+    color: "text-primary",
+    bgColor: "bg-primary-light"
   },
   {
     id: "pdf-to-ppt",
     title: "PDF to PowerPoint",
     description: "Convert PDF slides to PowerPoint presentations",
     icon: Presentation,
-    color: "text-orange-600",
-    bgColor: "bg-orange-50"
+    color: "text-primary",
+    bgColor: "bg-primary-light"
   },
   {
     id: "pdf-to-jpg",
     title: "PDF to JPG",
     description: "Convert PDF pages to high-quality JPG images",
     icon: FileImage,
-    color: "text-purple-600",
-    bgColor: "bg-purple-50"
+    color: "text-primary",
+    bgColor: "bg-primary-light"
   },
   {
     id: "word-to-pdf",
     title: "Word to PDF",
     description: "Convert Word documents to PDF format",
     icon: FileText,
-    color: "text-blue-600",
-    bgColor: "bg-blue-50"
+    color: "text-primary",
+    bgColor: "bg-primary-light"
   },
   {
     id: "excel-to-pdf",
     title: "Excel to PDF",
     description: "Convert Excel spreadsheets to PDF",
     icon: FileSpreadsheet,
-    color: "text-green-600",
-    bgColor: "bg-green-50"
+    color: "text-primary",
+    bgColor: "bg-primary-light"
   },
   {
     id: "ppt-to-pdf",
     title: "PowerPoint to PDF",
     description: "Convert presentations to PDF format",
     icon: Presentation,
-    color: "text-orange-600",
-    bgColor: "bg-orange-50"
+    color: "text-primary",
+    bgColor: "bg-primary-light"
   },
   {
     id: "jpg-to-png",
     title: "JPG to PNG",
     description: "Convert JPG images to PNG format",
     icon: Image,
-    color: "text-pink-600",
-    bgColor: "bg-pink-50"
+    color: "text-primary",
+    bgColor: "bg-primary-light"
   },
   {
     id: "mp4-to-mp3",
     title: "MP4 to MP3",
     description: "Extract audio from video files",
     icon: Music,
-    color: "text-red-600",
-    bgColor: "bg-red-50"
+    color: "text-primary",
+    bgColor: "bg-primary-light"
   }
 ];
 

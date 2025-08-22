@@ -7,7 +7,7 @@ const PricingPage = () => {
   const plans = [
     {
       name: "Free",
-      price: "$0",
+      price: "₹0",
       period: "forever",
       description: "Perfect for occasional use",
       features: [
@@ -22,7 +22,7 @@ const PricingPage = () => {
     },
     {
       name: "Premium",
-      price: "$9.99",
+      price: "₹799",
       period: "per month",
       description: "For regular users and professionals",
       features: [
